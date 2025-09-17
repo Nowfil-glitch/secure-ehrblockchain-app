@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "user-avatar-1",
+      "description": "User avatar",
+      "imageUrl": "https://picsum.photos/seed/avatar1/40/40",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "x-ray-1",
+      "description": "Chest X-ray image",
+      "imageUrl": "https://picsum.photos/seed/xray1/600/400",
+      "imageHint": "x-ray medical"
+    },
+    {
+      "id": "skin-lesion-1",
+      "description": "Image of a skin lesion",
+      "imageUrl": "https://picsum.photos/seed/skin1/600/400",
+      "imageHint": "skin medical"
+    }
+  ]
+}
